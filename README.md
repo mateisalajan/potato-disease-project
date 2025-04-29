@@ -104,10 +104,6 @@ Steps to contribute:
 5. Push the changes to your fork.
 6. Create a pull request to the main repository.
 
-License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Deployment
 
 To be added once the deployment feature is implemented.
